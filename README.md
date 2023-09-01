@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Moxxey
+- 👀 I’m interested in music, coding and gaming
+- 🌱 I’m currently studying computer science at the university of Ghent
