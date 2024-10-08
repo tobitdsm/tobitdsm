@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Moxxey
-- 👀 I’m interested in music, coding and gaming
-- 🌱 I’m currently studying computer science at the university of Ghent
+- 👋 Hallo, ik ben Tobit
+- 👀 Ik ben geïnteresseerd in muziek, coderen en gamen
+- 🌱 Ik studeer momenteel computerwetenschappen aan de universiteit van Gent
