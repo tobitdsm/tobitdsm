@@ -1,3 +1,3 @@
 - 👋 Hallo, ik ben Tobit
 - 👀 Ik ben geïnteresseerd in muziek, coderen en gamen
-- 🌱 Ik studeer momenteel computerwetenschappen aan de universiteit van Gent
+- 🌱 Ik studeer momenteel informatica aan de universiteit van Gent
