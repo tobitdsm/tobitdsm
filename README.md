@@ -21,7 +21,7 @@ I tend to work late into the night – the quiet hours are perfect for tackling 
 
 When I’m not coding, you’ll probably find me making music:
 
-Playing trumpet in 2 wind orchestras (Ghent University Wind Ensemble and Royal Concert Band De Eendracht Wachtebeke) and a chamber orchestra
+Playing trumpet in a chamber orchestra, the Ghent University Wind Ensemble and the Royal Concert Band De Eendracht Wachtebeke
 
 Singing bass in the Ghent University Choir
 
