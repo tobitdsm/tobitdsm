@@ -21,9 +21,9 @@ I tend to work late into the night – the quiet hours are perfect for tackling 
 
 When I’m not coding, you’ll probably find me making music:
 
-Playing trumpet in 2 wind orchestras and a chamber orchestra 🎺.
+Playing trumpet in 2 wind orchestras (Ghent University Wind Ensemble and Royal Concert Band De Eendracht Wachtebeke) and a chamber orchestra
 
-Singing bass in a choir 🎤.
+Singing bass in the Ghent University Choir
 
 Producing my own tracks and experimenting with different genres.
 
