@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="/tobitdsm/default/style.css">
-    <link rel="icon" href="/tobitdsm/resources/images/tmf.png">
+    <link rel="icon" href="https://cdn2.steamgriddb.com/icon/907ee68e550f498a93ec82d228135c00/32/256x256.png">
     <script src="/tobitdsm/default/script.js"></script>
+    <script src="server.js"></script>
     <title>¦ζҼųऽ¦ Server Controls</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8">
 </head>
@@ -17,15 +18,31 @@
             <a href="/tobitdsm/tmf-server/">TMF Server Controls</a>
         </div>
         <span class="header-left" onclick="openMenu()"><img src="/tobitdsm/resources/images/hamburger.png" class="hamburger" alt="hamburger"></span>
-        <div class="logo"><a href="/tobitdsm/"><img src="/tobitdsm/resources/images/logo.png" alt="logo"></a></div>
+        <div class="logo">
+            <a href="/tobitdsm/">
+                <img src="https://avatars.githubusercontent.com/u/143805223?v=4" alt="logo">
+                <h1>tobitdsm</h1>
+            </a>
+        </div>
     </div>
 
     <div class="main">
-        <div class="section">
+        <div class="section" id="console-control">
+            <div id="console"><code>> _</code></div>
+            <div id="control"><div>
+                <h1>Current server status:❔unknown</h1>
+                <button onclick="server_start()">Start</button>
+                <button onclick="server_stop()">Stop</button><br><br>
+                <button onclick="server_restart()">Restart</button>
+                <button onclick="server_refresh()">Refresh</button>
+            </div></div>
         </div>
     </div>
     <div class="footer">
-        <p style="text-align: center">©tobitdsm 2025</p>
+        <p>©tobitdsm 2025</p>
+        <div class="footer-links">
+            <a href="https://www.github.com/tobitdsm/" target="_blank"><img src="/tobitdsm/resources/images/github.png" alt="github"></a>
+        </div>
     </div>
 </div>
 </body>
