@@ -30,4 +30,4 @@ Producing my own tracks and experimenting with different genres.
 
 ### What’s Here
 
-This GitHub is home to projects ranging from the practical to the experimental. Feel free to explore, and let’s connect if you’re interested in similar topics!
+This GitHub is home to projects ranging from the practical to the experimental. Feel free to explore, and if you're interested at the projects i do/did, check out my [page](https://tobitdsm.github.io/tobitdsm/)!
