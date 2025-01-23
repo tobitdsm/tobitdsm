@@ -126,7 +126,7 @@ body {
 }
 
 #console-control {
-    min-height: 312px;
+    min-height: 390px;
 }
 
 #console {
@@ -134,13 +134,14 @@ body {
     background-color: #111;
     width: 40%;
     padding: 2%;
-    height: 240px;
+    height: 340px;
     overflow: hidden;
     align-content: baseline;
     border-radius: 10px;
 }
 
 #control div {
+    text-wrap: wrap;
     margin-left: 55%;
 }
 
@@ -235,6 +236,10 @@ body {
     text-align: center;
 }
 
+.only-mobile {
+    display: none;
+}
+
 @media screen and (orientation: portrait) {
     #menu {
         padding-top: 15px;
@@ -246,5 +251,9 @@ body {
 
     .sectionhome {
         width: 100% !important;
+    }
+
+    .only-mobile {
+        display: inline;
     }
 }
