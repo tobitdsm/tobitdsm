@@ -1,5 +1,3 @@
-const port = 5000;
-
 function update(status, console) {
     console = document.getElementById("console").firstElementChild.innerHTML.slice(0, -1) + console;
     console = console.split("<br>").slice(-20);
@@ -45,9 +43,6 @@ async function command(cmd) {
     else update("❔unknown", res['message'] + "<br>> ");
 }
 
-async function get_port() {
-}
-
 async function send_command(cmd, timeout = 5000) {
     const controller = new AbortController();
     const signal = controller.signal;
@@ -59,7 +54,7 @@ async function send_command(cmd, timeout = 5000) {
         }, timeout);
     });
 
-    const fetchPromise = fetch('http://127.0.0.1:' + port + '/tmfd', {
+    const fetchPromise = fetch('http://127.0.0.1:5000/tmfd', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
