@@ -1,33 +1,33 @@
 ## Welcome to My GitHub
 
-Hi there! I’m Tobit, a computer science student at the University of Ghent with a passion for both coding and music.
+Hey there! I’m Tobit — a computer science student at Ghent University with a love for both coding and music.
 
 ### About Me
 
-Languages I Work With: Java (my go-to) and Haskell (a new, intriguing challenge).
+I mostly work in **Java** (it's my go-to), but I’ve recently been diving into **Haskell**, which has been a fun challenge. For quick jobs or little automations, I often turn to **Bash**.
 
-Biggest Challenge: Linker errors – they never fail to test my patience.
+Biggest struggle? Linker errors. Enough said.
 
-Work Style: I enjoy both solo projects and collaborations. Each has its perks.
+I enjoy working solo when I want full control, but I also like teaming up on projects — collaboration always brings fresh ideas to the table.
 
-Problem-Solving Approach: Google is my first stop; if that fails, I ask a friend.
+When I hit a wall, my process usually looks like this:
 
+1. Google it
+2. Google it again
+3. Ask a friend
 
-### Night Owl Coder
+### Late-Night Coding Sessions
 
-I tend to work late into the night – the quiet hours are perfect for tackling tough problems. My IDEs of choice are the JetBrains suite.
+I do most of my best work late at night — it’s quiet, peaceful, and perfect for getting into the zone. I stick with JetBrains IDEs most of the time (they just get the job done).
 
-### Music and More
+### Music Is My Other World
 
-When I’m not coding, you’ll probably find me making music:
+Outside of code, I spend a lot of time making music. I play trumpet in a chamber orchestra, the Ghent University Wind Ensemble, and the Royal Concert Band De Eendracht Wachtebeke.
+I also sing bass in the Ghent University Choir.
 
-Playing trumpet in a chamber orchestra, the Ghent University Wind Ensemble and the Royal Concert Band De Eendracht Wachtebeke
+When I’m not rehearsing or performing, I’m usually in my room producing music, blending different genres, and seeing where inspiration takes me.
+What You'll Find Here
 
-Singing bass in the Ghent University Choir
+This GitHub is a mix of practical stuff and experimental side projects — things I build for fun, out of curiosity, or just to learn something new.
 
-Producing my own tracks and experimenting with different genres.
-
-
-### What’s Here
-
-This GitHub is home to projects ranging from the practical to the experimental. Feel free to explore, and if you're interested at the projects i do/did, check out my [page](https://tobitdsm.github.io/tobitdsm/)!
+Want to see more of what I’ve been working on? Check out my [page](https://tobitdsm.github.io/tobitdsm).
