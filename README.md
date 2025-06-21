@@ -26,7 +26,8 @@ Outside of code, I spend a lot of time making music. I play trumpet in a chamber
 I also sing bass in the Ghent University Choir.
 
 When I’m not rehearsing or performing, I’m usually in my room producing music, blending different genres, and seeing where inspiration takes me.
-What You'll Find Here
+
+### What You'll Find Here
 
 This GitHub is a mix of practical stuff and experimental side projects — things I build for fun, out of curiosity, or just to learn something new.
 
