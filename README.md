@@ -4,7 +4,7 @@ Hey there! I’m Tobit — a computer science student at Ghent University with a
 
 ### About Me
 
-I mostly work in **C**, but I’ve recently been diving into **Haskell**, which has been a fun challenge. For quick jobs or little automations, I often turn to **Bash**.
+I mostly work in **Python**, but I’ve recently been diving into **Haskell**, which has been a fun challenge. For quick jobs or little automations, I often turn to **Bash**.
 
 Biggest struggle? Linker errors.
 
