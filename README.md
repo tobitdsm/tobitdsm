@@ -1,34 +1,17 @@
-## Welcome to My GitHub
+I'm a master's student in computer science at Ghent University.
 
-Hey there! I’m Tobit — a computer science student at Ghent University with a love for both coding and music.
+I mainly work with **Python**, but I've also been learning **Haskell**. For smaller tasks and automation, I usually use **Bash**.
 
-### About Me
+I enjoy working on projects independently, but I'm also happy to collaborate.
 
-I mostly work in **Python**, but I’ve recently been diving into **Haskell**, which has been a fun challenge. For quick jobs or little automations, I often turn to **Bash**.
+### Beyond Code
 
-Biggest struggle? Linker errors.
+Outside of programming, I'm involved in music.
 
-I enjoy working alone when I want full control, but I also like teaming up on projects. Collaboration always brings fresh ideas to the table.
+I play trumpet in a chamber orchestra and the Royal Concert Band De Eendracht Wachtebeke, and sing bass in the Ghent University Choir, where I'm also a board member. I also spend time producing my own music.
 
-When I hit a problem, my process usually looks like this:
+### Projects
 
-1. Google it
-2. Google it again
-3. Ask a friend
+You'll find a mix of personal projects, experiments, and other things I've worked on here.
 
-### Late-Night Coding Sessions
-
-I do most of my best work late at night. It’s quiet, peaceful, and perfect for getting into the zone. I stick with JetBrains IDEs most of the time.
-
-### Music Is My Other World
-
-Outside of code, I spend a lot of time making music. I play trumpet in a chamber orchestra, the Ghent University Wind Ensemble (formerly), and the Royal Concert Band De Eendracht Wachtebeke.
-I am also a bass singer in the Ghent University Choir.
-
-When I’m not rehearsing or performing, I’m usually in my room producing music.
-
-### What You'll Find Here
-
-This GitHub is a mix of practical stuff and experimental side projects. Things I build for fun, out of curiosity, or just to learn something new.
-
-Want to see more of what I’ve been working on? Check out my [page](https://tobitdsm.github.io/).
+You can find more on my [website](https://tobitdsm.github.io/).
