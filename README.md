@@ -1,6 +1,6 @@
 I'm a master's student in computer science at Ghent University.
 
-I mainly work with **Python**, but I've also been learning **Haskell**. For smaller tasks and automation, I usually use **Bash**.
+I mainly work with **Python** and **C/C++**, but I've also been learning **Haskell**. For smaller tasks and automation, I usually use **Bash**.
 
 I enjoy working on projects independently, but I'm also happy to collaborate.
 
